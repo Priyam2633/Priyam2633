@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RitikRawal/RitikRawal/main/banner.png" alt="banner" />
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/070/161/045/small/black-elegant-rectangle-frame-border-with-place-for-text-design-isolated-on-white-background-vector.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Priyam Kumar</h1>

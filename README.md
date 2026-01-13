@@ -51,11 +51,14 @@ Currently exploring <b>Spring Boot</b>, <b>REST APIs</b>, and improving my
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyam2633&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam2633&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-main-priyam2633.vercel.app/api?username=Priyam2633&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyam2633&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-main-priyam2633.vercel.app/api/top-langs/?username=Priyam2633&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Priyam2633)
+
 
 
 

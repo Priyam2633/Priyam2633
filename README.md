@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Priyam Kumar</h1>
-<h3 align="center">A Java Backend Developer in the making</h3>
+<h3 align="center">A Java Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Priyam2633&label=Visitors&color=blueviolet&style=for-the-badge"/>

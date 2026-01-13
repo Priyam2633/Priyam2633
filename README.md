@@ -49,14 +49,14 @@ Currently exploring <b>Spring Boot</b>, <b>REST APIs</b>, and improving my
 <!-- ================= GITHUB STATS ================= -->
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Priyam2633&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam2633&layout=compact&theme=tokyonight"/>
-</p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyam2633&theme=tokyonight"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyam2633&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam2633&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyam2633&theme=tokyonight)
+
 
 
 ---

@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Priyam Kumar
 
-🎓 Computer Science Engineering Student  
+🎓 Computer Science graduate   
 💻 Java Backend Developer  
 
 ### 🔧 Skills
@@ -12,7 +12,7 @@
 ### 🚀 Projects
 - Online Ticket Booking System (Spring Boot + JPA)
 - Student Management System (Java + JDBC)
-- REST API for User Management
+
 
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/priyam-kumar-028ba0237/

@@ -46,36 +46,15 @@ Currently exploring <b>Spring Boot</b>, <b>REST APIs</b>, and improving my
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-<h2 align="center">📊 My GitHub Stats</h2>
-
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-main-priyam2633.vercel.app/api?username=Priyam2633&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-main-priyam2633.vercel.app/api/top-langs/?username=Priyam2633&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Priyam2633)
-
-
-
-
----
-
 <!-- ================= CONTACT ================= -->
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:priyam7232506@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/priyam-kumar-028ba0237/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 

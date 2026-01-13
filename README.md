@@ -15,8 +15,7 @@
 - REST API for User Management
 
 ### 📫 Connect with Me
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/priyam-kumar-028ba0237/
 
 
 <!--

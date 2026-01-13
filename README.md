@@ -5,8 +5,9 @@
 <h3 align="center">A Java Backend Developer in the making</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=brightgreen&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Priyam2633&label=Visitors&color=blueviolet&style=for-the-badge"/>
 </p>
+
 
 ---
 
